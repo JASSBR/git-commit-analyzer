@@ -1,0 +1,26 @@
+You are building a DEVELOPER TOOL. Implement the COMPLETE tool:
+
+1. **CLI** (src/index.js): Full command-line interface with subcommands.
+
+2. **Core Logic**: Implement all analysis, generation, or automation features completely.
+
+3. **Configuration**: Support config files or flags for customization.
+
+4. **Output**: Formatted, colorful terminal output with tables/charts where appropriate.
+
+5. **README.md**: Full documentation with examples, configuration options, and use cases.
+
+Use ONLY native Node.js modules. No npm dependencies.
+
+---
+PROJECT DETAILS:
+- Name: git-commit-analyzer
+- Title: Git Commit Analyzer
+- Description: Tool that analyzes git repos for commit patterns, contributor stats, and code velocity metrics.
+- Category: devtools
+- Difficulty: intermediate
+- Tags: git, analytics, devtools
+
+Implement EVERYTHING now. The project must be complete and fully functional when you're done.
+After implementation, commit all changes with message: "Implement complete Git Commit Analyzer"
+Then push to origin main.

@@ -1,0 +1,14 @@
+{
+  "name": "git-commit-analyzer",
+  "version": "1.0.0",
+  "description": "Tool that analyzes git repos for commit patterns, contributor stats, and code velocity metrics.",
+  "bin": {
+    "git-commit-analyzer": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test tests/"
+  },
+  "keywords": ["cli"],
+  "license": "MIT"
+}
